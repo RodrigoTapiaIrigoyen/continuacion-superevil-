@@ -26,10 +26,11 @@ const HomePage = () => {
       {/* Hero Section */}
       <div className="relative h-screen md:h-[70vh] overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gray-900">
-          <img
-            src="public/.super-evil-megacorp-logo.webp"
-            className="w-full h-full object-contain md:object-cover"
-          />
+        <img
+  src="/.super-evil-megacorp-logo.webp"
+  className="w-full h-full object-contain md:object-cover"
+/>
+
         </div>
         <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
           <div className="text-center px-4">
