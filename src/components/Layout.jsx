@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
           <div className="flex justify-between h-16">
             <div className="flex items-center space-x-4">
               <Link to="/" className="text-2xl font-bold text-white">
-                GameArena
+                SuperEvilMegaCorp
               </Link>
               <div className="hidden md:flex md:items-center md:space-x-2">
                 <NavLink to="/dashboard">

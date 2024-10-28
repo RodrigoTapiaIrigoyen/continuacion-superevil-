@@ -37,7 +37,7 @@ const HomePage = () => {
       <div className="relative h-screen md:h-[70vh] overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gray-900">
           <img
-            src="https://files.oaiusercontent.com/file-fUwIVbqOH58twtwkAC35TX8h?se=2024-10-28T20%3A49%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D23c813fe-07664cb4-99e9-5b119bce6592.webp&sig=DW6qum52OlOsOKBdhLXjJSXzO89uul2MJPrfyv7uQkI%3D"
+            src="public/DALL·E 2024-10-28 14.45.50 - A centered, sleek, edgy logo with the text 'SuperEvilMegaCorp.lat'. The logo should be bold and modern, incorporating sharp lines and a dark color pal.webp"
             alt="SuperEvilMegacorp"
             className="w-full h-full object-contain md:object-cover"
           />
